@@ -1,0 +1,9 @@
+requests==2.27.1
+pandas==1.4.0
+Scrapy==2.5.1
+scrapy-zyte-smartproxy==2.1.0
+pycoingecko==2.2.0
+
+# linter
+black==22.1.0
+isort==5.10.1
